@@ -6,6 +6,7 @@ body{
 }
 p{
     margin: 0;
+    letter-spacing: -1px;
     font-family: 'Oswald', sans-serif;
     font-size: 5;/*5*/
     line-height: 11px;/*14*/
