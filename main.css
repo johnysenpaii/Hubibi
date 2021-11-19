@@ -6,10 +6,10 @@ body{
 }
 p{
     margin: 0;
-    letter-spacing: -2px;
+    letter-spacing: 0px;
     font-family: 'Oswald', sans-serif;
-    font-size: 5;/*5*/
-    line-height: 11px;/*14*/
+    font-size: 15px;/*5*/
+    line-height: 12px;/*14*/
     text-align: justify;
     -webkit-background-size: cover;
     background-size: cover;
