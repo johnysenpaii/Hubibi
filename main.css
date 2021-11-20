@@ -15,10 +15,8 @@ p{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background: url(bibi.jpg) no-repeat center /cover;
+    background: url(hubibi.jpg) no-repeat center /cover;
     background-attachment: fixed;
     -webkit-background-clip: text;
     -webkit-text-fill-center: rgb(255, 255, 255, 0);
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
 }
